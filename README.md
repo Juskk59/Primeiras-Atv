@@ -56,7 +56,3 @@ Contribuições são sempre bem-vindas! Para colaborar:
 ## Licença
 
 Este projeto está licenciado sob a licença [MIT](https://opensource.org/licenses/MIT). Fique à vontade para usá-lo e adaptá-lo para os seus estudos.
-
----
-
-Se precisar de algo mais detalhado ou quiser incluir uma seção especial, como aprendizados ou desafios enfrentados, é só pedir! 😊
